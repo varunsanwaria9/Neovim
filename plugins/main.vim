@@ -7,5 +7,8 @@ Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/preservim/nerdtree' " File Explorer
 Plug 'https://github.com/airblade/vim-gitgutter' " Shows Git modification
 Plug 'https://github.com/frazrepo/vim-rainbow' " Bracket Coloring
+Plug 'https://github.com/jiangmiao/auto-pairs' " Auto Bracket Close
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 
 call plug#end()
