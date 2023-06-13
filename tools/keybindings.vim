@@ -7,9 +7,6 @@ inoremap <C-z> <ESC>ui
 nnoremap <C-q> :q!<CR>
 inoremap <C-q> <ESC>:q!<CR>
 
-nnoremap <C-a> :NERDTreeToggle<CR> " Open file explorer
-inoremap <C-a> <ESC>:NERDTreeToggle<CR>
-
 nnoremap <C-t> :tabNext<CR> " Goto next buffer
 inoremap <C-t> <ESC>:tabnext<CR> 
 nnoremap <C-T> :tabprevious<CR> " Goto previous buffer
