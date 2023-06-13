@@ -7,3 +7,4 @@ source ~/.config/nvim/tools/keybindings.vim
 " Main Plugin File
 source ~/.config/nvim/plugins/main.vim
 
+luafile ~/.config/nvim/plugins/bufferline.lua
